@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Rohit Kori 
-
+A passionate frontend developer from India, An Athlete and Messing with Dirt Tracks 🏍️ 
 <!--
 **heyrko/heyrko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
